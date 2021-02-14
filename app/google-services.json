@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "678732453929",
+    "project_id": "expressiondetector",
+    "storage_bucket": "expressiondetector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678732453929:android:f43c08cd4ec47a79c46438",
+        "android_client_info": {
+          "package_name": "com.techdoctorbd.expressiondetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678732453929-cbu1g39g753886o5h7igltusk8058heh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techdoctorbd.expressiondetector",
+            "certificate_hash": "5795146ffe5865486d339394d27953ed72636e5b"
+          }
+        },
+        {
+          "client_id": "678732453929-hvi9ukhj3klt4nreha1mu55e8fl1eqlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNO15wVimcSxSP6QJBFvRZDU0eUoS_GUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678732453929-hvi9ukhj3klt4nreha1mu55e8fl1eqlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
